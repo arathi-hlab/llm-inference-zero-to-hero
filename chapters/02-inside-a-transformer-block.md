@@ -10,7 +10,7 @@
 
 ✍️ by **Ashwini Rathi** · [@arathi-hlab](https://github.com/arathi-hlab)
 
-<a href="https://github.com/arathi-hlab/sglang-guidance"><img alt="Star this repo on GitHub" src="https://img.shields.io/badge/%E2%AD%90%20Star%20this%20repo-on%20GitHub-eda100?style=for-the-badge&logo=github&logoColor=white" height="42"></a>
+<a href="https://github.com/arathi-hlab/llm-inference-zero-to-hero"><img alt="Star this repo on GitHub" src="https://img.shields.io/badge/%E2%AD%90%20Star%20this%20repo-on%20GitHub-eda100?style=for-the-badge&logo=github&logoColor=white" height="42"></a>
 
 </div>
 
@@ -254,6 +254,6 @@ bf16 size  : 16.06 GB  →  batch-1 decode ≈ bandwidth / 16 GB tokens/s (≤ 2
 
 **If this helped, please give the repo a star. It really helps! 💛**
 
-<a href="https://github.com/arathi-hlab/sglang-guidance"><img alt="Star this repo on GitHub" src="https://img.shields.io/badge/%E2%AD%90%20Star%20this%20repo-on%20GitHub-eda100?style=for-the-badge&logo=github&logoColor=white" height="42"></a>
+<a href="https://github.com/arathi-hlab/llm-inference-zero-to-hero"><img alt="Star this repo on GitHub" src="https://img.shields.io/badge/%E2%AD%90%20Star%20this%20repo-on%20GitHub-eda100?style=for-the-badge&logo=github&logoColor=white" height="42"></a>
 
 </div>

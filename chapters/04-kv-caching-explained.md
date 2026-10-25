@@ -11,7 +11,7 @@
 
 ✍️ by **Ashwini Rathi** · [@arathi-hlab](https://github.com/arathi-hlab)
 
-<a href="https://github.com/arathi-hlab/sglang-guidance"><img alt="Star this repo on GitHub" src="https://img.shields.io/badge/%E2%AD%90%20Star%20this%20repo-on%20GitHub-eda100?style=for-the-badge&logo=github&logoColor=white" height="42"></a>
+<a href="https://github.com/arathi-hlab/llm-inference-zero-to-hero"><img alt="Star this repo on GitHub" src="https://img.shields.io/badge/%E2%AD%90%20Star%20this%20repo-on%20GitHub-eda100?style=for-the-badge&logo=github&logoColor=white" height="42"></a>
 
 </div>
 
@@ -378,9 +378,9 @@ Llama 3 8B (bf16)     :  128 KiB per token  ·  1 GiB per 8K tokens
 
 **If this helped you understand KV caching, please give the repo a star. It really helps! 💛**
 
-<a href="https://github.com/arathi-hlab/sglang-guidance"><img alt="Star this repo on GitHub" src="https://img.shields.io/badge/%E2%AD%90%20Star%20this%20repo-on%20GitHub-eda100?style=for-the-badge&logo=github&logoColor=white" height="42"></a>
+<a href="https://github.com/arathi-hlab/llm-inference-zero-to-hero"><img alt="Star this repo on GitHub" src="https://img.shields.io/badge/%E2%AD%90%20Star%20this%20repo-on%20GitHub-eda100?style=for-the-badge&logo=github&logoColor=white" height="42"></a>
 
-[![GitHub stars](https://img.shields.io/github/stars/arathi-hlab/sglang-guidance?style=social)](https://github.com/arathi-hlab/sglang-guidance/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/arathi-hlab/llm-inference-zero-to-hero?style=social)](https://github.com/arathi-hlab/llm-inference-zero-to-hero/stargazers)
 [![Follow @arathi-hlab](https://img.shields.io/github/followers/arathi-hlab?label=Follow%20%40arathi-hlab&style=social)](https://github.com/arathi-hlab)
 
 </div>

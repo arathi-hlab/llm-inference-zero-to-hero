@@ -7,7 +7,7 @@
 ![path](https://img.shields.io/badge/path-zero%20→%20hero-1baf7a?style=for-the-badge)
 ![focus](https://img.shields.io/badge/focus-LLM%20serving-eb6834?style=for-the-badge)
 ![hardware](https://img.shields.io/badge/tested%20on-Intel%20Arc%20Pro%20B60-6250d6?style=for-the-badge)
-![stars](https://img.shields.io/github/stars/arathi-hlab/sglang-guidance?style=for-the-badge&color=eda100)
+![stars](https://img.shields.io/github/stars/arathi-hlab/llm-inference-zero-to-hero?style=for-the-badge&color=eda100)
 
 ✍️ by **Ashwini Rathi** · [@arathi-hlab](https://github.com/arathi-hlab)
 
@@ -104,6 +104,6 @@ flowchart LR
 
 ### ⭐ If this helped you, please star the repo. It helps others find it!
 
-<a href="https://github.com/arathi-hlab/sglang-guidance"><img alt="Star this repo on GitHub" src="https://img.shields.io/badge/%E2%AD%90%20Star%20this%20repo-on%20GitHub-eda100?style=for-the-badge&logo=github&logoColor=white" height="42"></a>
+<a href="https://github.com/arathi-hlab/llm-inference-zero-to-hero"><img alt="Star this repo on GitHub" src="https://img.shields.io/badge/%E2%AD%90%20Star%20this%20repo-on%20GitHub-eda100?style=for-the-badge&logo=github&logoColor=white" height="42"></a>
 
 </div>
